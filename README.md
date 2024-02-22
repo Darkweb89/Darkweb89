@@ -1,10 +1,12 @@
-- 👋 Hi, @amarjeet Kumar 
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning b.tech
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-
-<!---
-Darkweb89/Darkweb89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int a,b;
+ printf("enter the value of a & b ");
+ scanf("%d%d",&a,&b );
+ temp=a;
+ a=b;
+ temp=b;
+ getch();
+}
